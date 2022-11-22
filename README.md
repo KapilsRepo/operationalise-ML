@@ -1,5 +1,5 @@
 # operationalise-ML
-//Status Badge will come here//
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/KapilsRepo/operationalise-ML/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/KapilsRepo/operationalise-ML/tree/main)
 
 ## Project Overview
 
