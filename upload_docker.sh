@@ -10,7 +10,7 @@ dockerpath="kapmydock23/udaprojml:v1.0.0"
 # Step 2:  
 # Authenticate & tag
 docker login
-docker tag microproject ${dockerpath}
+docker tag udaprojml ${dockerpath}
 echo "Docker ID and Image: $dockerpath"
 
 # Step 3:
