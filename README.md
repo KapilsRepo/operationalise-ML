@@ -50,3 +50,6 @@ Upload a complete Github repo with CircleCI to indicate that your code has been 
 
 ### Step 4: Kubernetes deployment
 - To deploy to kubernetes, run `./run_kubernetes.sh`
+
+### Circle CI:
+https://app.circleci.com/pipelines/github/KapilsRepo/operationalise-ML
